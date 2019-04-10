@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class stringPalindrome {
+public class StringPalindrome {
 
 	public static void main(String[] args) {
 
